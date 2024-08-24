@@ -1,0 +1,11 @@
+header {
+  background-color: rgb(196, 135, 55);
+  color: #ffffffcb;
+  text-align: center;
+  border-top: 24px;
+  text-decoration: dotted;
+}
+ body {
+    background-color: rgb(187, 69, 69);
+    color: #fff;
+ }
